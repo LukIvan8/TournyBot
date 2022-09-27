@@ -2,10 +2,9 @@
   "name": "tourny",
   "version": "1.0.0",
   "description": "",
-  "main": "bot.js",
+  "main": "./src/bot.js",
   "scripts": {
-    "build": "tsc",
-    "start": "node -r dotenv/config ./prod/index.js"
+    "test":"test"
   },
   "keywords": [],
   "author": "",
